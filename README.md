@@ -1,0 +1,2 @@
+# gohome
+利用openclash和passwall搭建一个可以连接家里网络的节点
